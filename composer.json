@@ -1,0 +1,17 @@
+{
+    "name": "mahan/property",
+    "authors": [
+        {
+            "name": "mahankabir",
+            "email": "mahan.kabir@gmail.com"
+        }
+    ],
+    "autoload": {
+        "psr-4": {
+            "JetXPro\\Property\\": "src/"
+        }
+    },
+    "require": {
+        "Illuminate/Support": "~7"
+    }
+}
