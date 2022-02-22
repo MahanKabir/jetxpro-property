@@ -12,6 +12,6 @@
         }
     },
     "require": {
-        "Illuminate/Support": "~7"
+        "illuminate/support": "~7"
     }
 }
